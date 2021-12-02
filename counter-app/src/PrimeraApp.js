@@ -2,9 +2,7 @@
 import React from 'react';
 import PropTypes from 'prop-types'; 
 
-const PrimeraApp = ( {saludo, subtitulo} ) => {
-
-    
+const PrimeraApp = ( {saludo, subtitulo} ) => { 
 
     return (
         <>
